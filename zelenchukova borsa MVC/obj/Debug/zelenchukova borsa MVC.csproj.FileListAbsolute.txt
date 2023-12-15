@@ -1,0 +1,7 @@
+C:\Users\STUDENTS-1212-4\Desktop\11д-деян\zelenchukova borsa MVC\zelenchukova borsa MVC\obj\Debug\zelenchukova borsa MVC.csproj.AssemblyReference.cache
+C:\Users\STUDENTS-1212-4\Desktop\11д-деян\zelenchukova borsa MVC\zelenchukova borsa MVC\obj\Debug\zelenchukova borsa MVC.csproj.CoreCompileInputs.cache
+C:\Users\STUDENTS-1212-4\Desktop\11д-деян\zelenchukova borsa MVC\zelenchukova borsa MVC\bin\Debug\zelenchukova borsa MVC.exe.config
+C:\Users\STUDENTS-1212-4\Desktop\11д-деян\zelenchukova borsa MVC\zelenchukova borsa MVC\bin\Debug\zelenchukova borsa MVC.exe
+C:\Users\STUDENTS-1212-4\Desktop\11д-деян\zelenchukova borsa MVC\zelenchukova borsa MVC\bin\Debug\zelenchukova borsa MVC.pdb
+C:\Users\STUDENTS-1212-4\Desktop\11д-деян\zelenchukova borsa MVC\zelenchukova borsa MVC\obj\Debug\zelenchukova borsa MVC.exe
+C:\Users\STUDENTS-1212-4\Desktop\11д-деян\zelenchukova borsa MVC\zelenchukova borsa MVC\obj\Debug\zelenchukova borsa MVC.pdb
